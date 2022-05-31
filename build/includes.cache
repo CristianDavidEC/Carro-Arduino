@@ -16,11 +16,21 @@
   },
   {
     "Sourcefile": "d:\\Documents\\MATERIALES\\Material Virtual\\2022-1\\Arquitectura de Computadores\\Proyectos\\carroAndando\\build\\sketch\\carroAndando.ino.cpp",
+    "Include": "BluetoothSerial.h",
+    "Includepath": "C:\\Users\\Crist\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BluetoothSerial\\src"
+  },
+  {
+    "Sourcefile": "d:\\Documents\\MATERIALES\\Material Virtual\\2022-1\\Arquitectura de Computadores\\Proyectos\\carroAndando\\build\\sketch\\carroAndando.ino.cpp",
     "Include": "",
     "Includepath": null
   },
   {
     "Sourcefile": "D:\\Documents\\Arduino\\libraries\\tb6612_ESP32\\TB6612_ESP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Crist\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\BluetoothSerial\\src\\BluetoothSerial.cpp",
     "Include": "",
     "Includepath": null
   }

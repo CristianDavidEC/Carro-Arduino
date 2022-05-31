@@ -132,4 +132,7 @@ d:\Documents\MATERIALES\Material\ Virtual\2022-1\Arquitectura\ de\ Computadores\
  C:\Users\Crist\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/spi_flash/esp_spi_flash.h \
  C:\Users\Crist\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\variants\esp32/pins_arduino.h \
  D:\Documents\Arduino\libraries\tb6612_ESP32/TB6612_ESP.h \
- C:\Users\Crist\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/arduino.h
+ C:\Users\Crist\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/arduino.h \
+ C:\Users\Crist\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\libraries\BluetoothSerial\src/BluetoothSerial.h \
+ C:\Users\Crist\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/bt/esp_spp_api.h \
+ C:\Users\Crist\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/bt/esp_bt_defs.h
