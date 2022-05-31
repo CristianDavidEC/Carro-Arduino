@@ -55,6 +55,9 @@ void loop()
         delay(50);
         carro(150,0);
         break;
+      case 'E':
+        carro(0,0);
+        break;
     }
 
   }
