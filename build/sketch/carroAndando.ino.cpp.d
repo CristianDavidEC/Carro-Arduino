@@ -135,4 +135,5 @@ d:\Documents\MATERIALES\Material\ Virtual\2022-1\Arquitectura\ de\ Computadores\
  C:\Users\Crist\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\cores\esp32/arduino.h \
  C:\Users\Crist\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\libraries\BluetoothSerial\src/BluetoothSerial.h \
  C:\Users\Crist\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/bt/esp_spp_api.h \
- C:\Users\Crist\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/bt/esp_bt_defs.h
+ C:\Users\Crist\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6/tools/sdk/include/bt/esp_bt_defs.h \
+ D:\Documents\Arduino\libraries\NewPing\src/NewPing.h
